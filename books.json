@@ -1,0 +1,74 @@
+{
+  "books": [
+    {
+      "image": "/images/books/1.jpg",
+      "title": "Witness for the Prosecution（《控方证人》）",
+      "author": "Agatha Christie（阿加莎·克里斯蒂）",
+      "readDate": "2025.1",
+      "link": "https://product.dangdang.com/29511400.html"
+    },
+    {
+      "image": "/images/books/2.jpg",
+      "title": "The ABC Murders（《ABC谋杀案》）",
+      "author": "Agatha Christie（阿加莎·克里斯蒂）",
+      "readDate": "2024.12",
+      "link": "https://product.dangdang.com/29147950.html"
+    },
+    {
+      "image": "/images/books/3.jpg",
+      "title": "The Sound and the Fury（《喧哗与骚动》）",
+      "author": "William Faulkner（威廉·福克纳）",
+      "readDate": "2024.10",
+      "link": "https://product.dangdang.com/27890467.html"
+    },
+    {
+      "image": "/images/books/4.jpg",
+      "title": "Summer, Fireworks, and My Corpse（《夏天、烟火和我的尸体》）",
+      "author": "Otsuichi（乙一）",
+      "readDate": "2024.7",
+      "link": "https://product.dangdang.com/27941986.html"
+    },
+    {
+      "image": "/images/books/5.jpg",
+      "title": "The Seventh Day（《第七天》）",
+      "author": "Yu Hua（余华）",
+      "readDate": "2024.7",
+      "link": "https://product.dangdang.com/29490306.html"
+    },
+    {
+      "image": "/images/books/6.jpg",
+      "title": "Malice（《恶意》）",
+      "author": "Keigo Higashino（东野圭吾）",
+      "readDate": "2024.7",
+      "link": "https://product.dangdang.com/29354040.html"
+    },
+    {
+      "image": "/images/books/7.jpg",
+      "title": "Bel-Ami（《漂亮朋友》）",
+      "author": "Guy de Maupassant（莫泊桑）",
+      "readDate": "2024.6",
+      "link": "https://product.dangdang.com/29508119.html"
+    },
+    {
+      "image": "/images/books/8.jpg",
+      "title": "1984（《1984》）",
+      "author": "George Orwell（乔治·奥威尔）",
+      "readDate": "2024.2",
+      "link": "https://product.dangdang.com/11702455459.html"
+    },
+    {
+      "image": "/images/books/9.jpg",
+      "title": "Animal Farm（《动物农场》）",
+      "author": "George Orwell（乔治·奥威尔）",
+      "readDate": "2024.1",
+      "link": "https://product.dangdang.com/29215912.html"
+    },
+    {
+      "image": "/images/books/10.jpg",
+      "title": "Klara and the Sun（《克拉拉与太阳》）",
+      "author": "Kazuo Ishiguro（石黑一雄）",
+      "readDate": "2023.10",
+      "link": "https://product.dangdang.com/29197120.html"
+    }
+  ]
+}

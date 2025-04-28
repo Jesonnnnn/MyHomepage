@@ -1,0 +1,34 @@
+{
+  "name": "席嘉勋 Jason Xi",
+  "profileImage": "/images/me/xijiaxun.jpg",
+  "contact": {
+    "email": "xijiaxun@zju.edu.cn",
+    "github": "https://github.com/jesonnnnn",
+    "wechatImg": "./images/me/my_wechat.jpg"
+  },
+  "descriptions": [
+    {
+      "text": "就读于<a href=\"https://www.som.zju.edu.cn\" target=\"_blank\">浙江大学管理学院</a>, 主修专业为信息管理与信息系统。主修课程有",
+      "courses": [
+        "数据结构",
+        "应用运筹学Ⅰ", 
+        "分布式文件系统及数据库技术",
+        "数据挖掘与机器学习",
+        "智能仿真与优化",
+        "大数据信息系统分析与设计"
+      ]
+    },
+    {
+      "text": "Studying at <a href=\"https://www.som.zju.edu.cn\" target=\"_blank\">Zhejiang University School of Management</a>, majoring in Information Management and Information Systems.Core courses include",
+      "courses": [
+        "Data Structures",
+        "Applied Operations Research I",
+        "Distributed File Systems and Database Technology", 
+        "Data Mining and Machine Learning",
+        "Intelligent Simulation and Optimization",
+        "Big Data Information System Analysis and Design"
+      ]
+    }
+  ],
+  "finalMessage": "Welcome to my homepage!"
+}
